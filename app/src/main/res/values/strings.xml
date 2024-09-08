@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="card_fullname">Abulfida Akmal</string>
+    <string name="card_title"><![CDATA[Web, Android & Backend Developer]]></string>
+    <string name="contact_phone">0812-3456-7890</string>
+    <string name="contact_website">abulfidaakmal.com</string>
+    <string name="contact_email">abulfidaakmal@gmail.com</string>
+</resources>
